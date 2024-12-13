@@ -1,0 +1,93 @@
+{
+   "lock.correct":{
+      "sounds":[{
+         "name":"endpassward:lock/correct",
+         "volume": 0.36,
+         "category": "player"
+      }]
+   },
+   "lock.wrong":{
+      "sounds":[{
+         "name":"endpassward:lock/wrong",
+         "volume": 0.36,
+         "category": "player"
+      }]
+   },
+   "lock.spin":{
+      "sounds":[{
+         "name":"endpassward:lock/spin",
+         "volume": 1,
+         "category": "player"
+      }]
+   },
+   "lock.input":{
+      "sounds":[{
+         "name":"endpassward:lock/input",
+         "volume": 0.46,
+         "category": "player"
+      }]
+   },
+   "lock.door.fail":{
+      "sounds":[{
+         "name":"endpassward:lock/door/fail",
+         "volume": 0.36,
+         "category": "player"
+      }]
+   },
+   "lock.door.open":{
+      "sounds":[{
+         "name":"endpassward:lock/door/open",
+         "volume": 0.36,
+         "category": "player"
+      }]
+   },
+   "lock.door.pad_click":{
+      "sounds":[{
+         "name":"endpassward:lock/door/pad_click",
+         "volume": 0.36,
+         "category": "player"
+      }]
+   },
+   "quiz.computer_2":{
+      "sounds":[{
+         "name":"endpassward:2com",
+         "volume": 0.38,
+         "category": "player"
+      }]
+   },
+   "quiz.computer_4":{
+      "sounds":[{
+         "name":"endpassward:4com",
+         "volume": 0.38,
+         "category": "player"
+      }]
+   },
+   "background.main_menu":{
+      "sounds":[{
+         "name":"endpassward:background/mainmenu",
+         "volume": 0.66,
+         "category":"player"
+      }]
+   },
+   "background.1":{
+      "sounds":[{
+         "name":"endpassward:background/1",
+         "volume": 0.66,
+         "category":"player"
+      }]
+   },
+   "background.2":{
+      "sounds":[{
+         "name":"endpassward:background/2",
+         "volume": 0.66,
+         "category":"player"
+      }]
+   },
+   "background.3":{
+      "sounds":[{
+         "name":"endpassward:background/3",
+         "volume": 0.66,
+         "category":"player"
+      }]
+   }
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "endpassward",
+  "name": "End Passward Mod",
+  "description": "End Passward Mod. Copy rights 2022 Team. Mijeong and YDTV.",
+  "version": "1.1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Geullo"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
